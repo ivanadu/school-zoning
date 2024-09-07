@@ -1,0 +1,21 @@
+Policy,Metric,Value
+Zones,Avg. Distance,1.35
+Zones + Reserves,Avg. Distance,1.29
+Priorities,Avg. Distance,1.91
+2018-2019,Avg. Distance,1.39
+Zones,Distance <= 0.5,0.3
+Zones + Reserves,Distance <= 0.5,0.32
+Priorities,Distance <= 0.5,0.24
+2018-2019,Distance <= 0.5,0.34
+Zones,Distance >= 3,0.1
+Zones + Reserves,Distance >= 3,0.1
+Priorities,Distance >= 3,0.23
+2018-2019,Distance >= 3,0.14
+Zones,+15% FRL Schools,0.15
+Zones + Reserves,+15% FRL Schools,0.11
+Priorities,+15% FRL Schools,0.09
+2018-2019,+15% FRL Schools,0.2
+Zones,Rank Top 1,0.37
+Zones + Reserves,Rank Top 1,0.34
+Priorities,Rank Top 1,0.6
+2018-2019,Rank Top 1,0.61

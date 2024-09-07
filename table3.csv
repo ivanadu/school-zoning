@@ -1,0 +1,49 @@
+Policy,Group,Metric,Value
+Zones,African American,Avg. Distance,1.45
+Zones + Reserves,African American,Avg. Distance,1.27
+Priorities,African American,Avg. Distance,2.24
+2018-2019,African American,Avg. Distance,1.82
+Zones,Asian,Avg. Distance,1.43
+Zones + Reserves,Asian,Avg. Distance,1.43
+Priorities,Asian,Avg. Distance,1.97
+2018-2019,Asian,Avg. Distance,1.56
+Zones,Latinx,Avg. Distance,1.26
+Zones + Reserves,Latinx,Avg. Distance,1.26
+Priorities,Latinx,Avg. Distance,1.71
+2018-2019,Latinx,Avg. Distance,1.34
+Zones,White,Avg. Distance,1.33
+Zones + Reserves,White,Avg. Distance,1.18
+Priorities,White,Avg. Distance,1.87
+2018-2019,White,Avg. Distance,1.09
+Zones,African American,In +15% FRL,0.16
+Zones + Reserves,African American,In +15% FRL,0.2
+Priorities,African American,In +15% FRL,0.091
+2018-2019,African American,In +15% FRL,0.26
+Zones,Asian,In +15% FRL,0.15
+Zones + Reserves,Asian,In +15% FRL,0.16
+Priorities,Asian,In +15% FRL,0.098
+2018-2019,Asian,In +15% FRL,0.26
+Zones,Latinx,In +15% FRL,0.26
+Zones + Reserves,Latinx,In +15% FRL,0.089
+Priorities,Latinx,In +15% FRL,0.11
+2018-2019,Latinx,In +15% FRL,0.29
+Zones,White,In +15% FRL,0.056
+Zones + Reserves,White,In +15% FRL,0.031
+Priorities,White,In +15% FRL,0.035
+2018-2019,White,In +15% FRL,0.057
+Zones,African American,"Dist >= 3, Rank >= 5",0.034
+Zones + Reserves,African American,"Dist >= 3, Rank >= 5",0.035
+Priorities,African American,"Dist >= 3, Rank >= 5",0.026
+2018-2019,African American,"Dist >= 3, Rank >= 5",0.012
+Zones,Asian,"Dist >= 3, Rank >= 5",0.068
+Zones + Reserves,Asian,"Dist >= 3, Rank >= 5",0.083
+Priorities,Asian,"Dist >= 3, Rank >= 5",0.111
+2018-2019,Asian,"Dist >= 3, Rank >= 5",0.037
+Zones,Latinx,"Dist >= 3, Rank >= 5",0.021
+Zones + Reserves,Latinx,"Dist >= 3, Rank >= 5",0.041
+Priorities,Latinx,"Dist >= 3, Rank >= 5",0.033
+2018-2019,Latinx,"Dist >= 3, Rank >= 5",0.012
+Zones,White,"Dist >= 3, Rank >= 5",0.066
+Zones + Reserves,White,"Dist >= 3, Rank >= 5",0.049
+Priorities,White,"Dist >= 3, Rank >= 5",0.151
+2018-2019,White,"Dist >= 3, Rank >= 5",0.022
