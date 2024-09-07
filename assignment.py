@@ -7,7 +7,7 @@ np.random.seed(1)
 class SchoolAssigner:
     """
     Assign kindergarten students to schools using the modified optimization
-    problem described in the problem set.
+    problem.
     """
 
     def __init__(self, path):
